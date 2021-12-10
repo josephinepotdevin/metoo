@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The MeToo movement and its impact on women's representation in the newspapers
 
 You can use the [editor on GitHub](https://github.com/josephinepotdevin/metoo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
