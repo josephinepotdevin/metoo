@@ -23,7 +23,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](PMT_graph.png)
+[Link](url) and 
+
+![Image](PMT_graph.png)
+
+
 ```
 Image de merde:
 
