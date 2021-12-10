@@ -33,7 +33,9 @@ Image de merde:
 
 PMT_graph.png
 Pourquoi elle marche pas cette image de merde
-[Image](PMT_graph.png)
+
+![Image](PMT_graph.png)
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
