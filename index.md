@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The MeToo movement and its impact on women's representation in the newspapers
 
 You can use the [editor on GitHub](https://github.com/josephinepotdevin/metoo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,8 +23,16 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
+
+![Image](PMT_graph.png)
+
+
 ```
+Image de merde:
+
+PMT_graph.png
+Pourquoi elle marche pas cette image de merde ![Image](PMT_graph.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
